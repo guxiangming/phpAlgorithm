@@ -33,13 +33,16 @@ function kmp($a, $n, $b, $m)
     
 }
 
-// a b a b a e a b a b a c
+// a b a b a b a .b a b a c
 
 // a b a b a c 
 
-
 // 5 3
 
-// 5 1
+// 6 4
 
-// 5 0
+// 7 5
+
+// 7 3
+
+// 7 1
