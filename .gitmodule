@@ -1,0 +1,3 @@
+[submodule "laravel-tars"]
+    path = laravel-tars
+    url = ssh://git@github.com:guxiangming/laravel-tars.git
